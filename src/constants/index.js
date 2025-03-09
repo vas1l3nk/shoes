@@ -24,9 +24,9 @@ export const shoes = [
 ];
 
 export const statistics = [
-    { value: '1k+', label: 'Brands' },
-    { value: '500+', label: 'Shops' },
-    { value: '250k+', label: 'Customers' },
+    { value: '1k+', label: 'Бренды' },
+    { value: '500+', label: 'Магазины' },
+    { value: '250k+', label: 'Покупатели' },
 ];
 
 export const products = [
@@ -88,7 +88,7 @@ export const reviews = [
 
 export const footerLinks = [
     {
-        title: "Products",
+        title: "Продукты",
         links: [
             { name: "Air Force 1", link: "/" },
             { name: "Air Max 1", link: "/" },
@@ -99,17 +99,14 @@ export const footerLinks = [
         ],
     },
     {
-        title: "Help",
+        title: "Информация",
         links: [
-            { name: "About us", link: "/" },
-            { name: "FAQs", link: "/" },
-            { name: "How it works", link: "/" },
-            { name: "Privacy policy", link: "/" },
-            { name: "Payment policy", link: "/" },
+            { name: "О нас", link: "/" },
+
         ],
     },
     {
-        title: "Get in touch",
+        title: "Контакты",
         links: [
 
             { name: "+79296904481", link: "tel:+79296904481" },
